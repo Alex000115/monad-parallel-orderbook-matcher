@@ -1,0 +1,10 @@
+{
+  "name": "monad-parallel-orderbook-matcher",
+  "version": "1.0.0",
+  "description": "High-throughput parallelized limit order book matching engine architecture for Monad EVM",
+  "main": "simulateOrderbookMatching.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
